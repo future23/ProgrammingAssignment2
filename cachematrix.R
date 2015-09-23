@@ -1,4 +1,8 @@
 ##The first function creates a special "matrix"
+Set the value of the matrix.
+get the value of the matrix.
+set the value of the inverse matrix.
+get the value of the inverse matrix.
 makeCacheMatrix <- function(x = matrix()) {
 cainv <-NULL
 set<-function(y) {
