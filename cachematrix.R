@@ -1,5 +1,5 @@
 ##The first function creates a special "matrix"
-makeCacheMatrix <- fuction(x = matrix()) {
+makeCacheMatrix <- function(x = matrix()) {
 cainv <-NULL
 set<-function(y) {
 x <<-y
